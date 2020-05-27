@@ -7,7 +7,9 @@ body {
     text-transform: uppercase;
     letter-spacing: .5em;
     top: 15%;
-	background: linear-gradient(to right, red , yellow); /* Standard syntax */
+    /* background: linear-gradient(to right, red, yellow); */
+    background: linear-gradient(to right, #545454, #232323);
+  
 }
 
 h1 {
